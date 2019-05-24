@@ -1,3 +1,7 @@
 # Examproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+Hi Jeppe 
+Here is our exam ansawers. We have experinced a minor problem with our code in the interactive plots. If you should incour on of these problems, please restart the kernal.
+
+
+
